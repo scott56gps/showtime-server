@@ -1,0 +1,14 @@
+{
+  "name": "showtime-server",
+  "version": "1.0.0",
+  "description": "Server for the Showtime! client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Nicholes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
